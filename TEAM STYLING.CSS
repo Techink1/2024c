@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient( rgb(78, 201, 78), rgb(61, 61, 240));
+    text-align: center;
+}
+#navbar{
+    width: 100%;
+    padding: 30px;
+    background:linear-gradient(rgb(0, 255, 170), rgb(255, 83, 3));
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: xx-large;
+}
+#clubs{
+    margin-left: 70px;
+    font-size: 16px;
+}
+.clubs{
+    width: 100%;
+    padding: 30px;
+    background: linear-gradient(red, blue);
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: small;
+}
+h2{
+    font-size: 30px;
+    font-family: bell mt;
+    font-style: oblique;
+}
+#safe{
+    font-family: algerian;
+    font-size: 50px;
+    color: rgb(128, 0, 0);
+}
+p{
+    font-style:  italic;
+    font-size: large;
+}
+h1{
+    font-family: agency fb;
+    color: rgb(223, 184, 9);
+}
+#logo{
+    float: left;
+}
+a{
+    color: rgb(112, 241, 6);
+    justify-content: space-around;
+    text-decoration: none;
+    margin-left: 100px;
+}
